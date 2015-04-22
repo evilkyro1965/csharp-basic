@@ -1,0 +1,6 @@
+D:\source_code\1_Learn\csharp\basic\Hello World\Hello World\bin\Debug\Hello World.exe.config
+D:\source_code\1_Learn\csharp\basic\Hello World\Hello World\bin\Debug\Hello World.exe
+D:\source_code\1_Learn\csharp\basic\Hello World\Hello World\bin\Debug\Hello World.pdb
+D:\source_code\1_Learn\csharp\basic\Hello World\Hello World\obj\Debug\Hello World.csprojResolveAssemblyReference.cache
+D:\source_code\1_Learn\csharp\basic\Hello World\Hello World\obj\Debug\Hello World.exe
+D:\source_code\1_Learn\csharp\basic\Hello World\Hello World\obj\Debug\Hello World.pdb
