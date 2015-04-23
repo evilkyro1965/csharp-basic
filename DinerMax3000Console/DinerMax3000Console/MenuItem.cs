@@ -10,6 +10,22 @@ namespace DinerMax3000Console
     {
         public string Title;
         public string Description;
-        public double Price;
+        private double _price;
+        public double Price
+        {
+            get { return _price; }
+            set
+            {
+                if (value > 0)
+                {
+                    _price = value;
+                }
+                else
+                {
+                    throw new ApplicationException("must positive");
+                }
+            }
+        }
+
     }
 }

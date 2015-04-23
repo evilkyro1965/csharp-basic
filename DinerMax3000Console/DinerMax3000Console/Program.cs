@@ -33,6 +33,15 @@ namespace DinerMax3000Console
             {
                 hungryGuestOrder.items.Add(currentItem);
             }
+
+            try { 
+                outsideDrinks.AddMenuItem("Screwdriver", "Makes you hammered.", 0);
+            }
+            catch (Exception thrownException)
+            {
+                Console.WriteLine(thrownException.Message);
+            }
+
         }
     }
 } 
